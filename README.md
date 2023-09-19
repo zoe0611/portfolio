@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Tableau
 
 ## Education					       		
-- M.S., Statistics	| The George Washington University, Washington DC, USA (_May 2017_)	 			        		
-- B.S., Statistics | The University of Michigan, Ann Arbor, MI, USA (_May 2015_)
+M.S., Statistics	| The George Washington University, Washington DC, USA (_May 2017_)	 			        		
+B.S., Statistics | The University of Michigan, Ann Arbor, MI, USA (_May 2015_)
 
 ## Work Experience
 **Data Analyst @ CBRE Global Workplace Solutions, Toronto, Canada (_May 2022 - Present_)**
