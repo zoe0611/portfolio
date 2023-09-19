@@ -37,6 +37,6 @@ Worked with the Finance team to develop performance monitoring framework with pr
 ![Corporate KPI Dashboard](/images/KPI_Dashboard.png)
 
 ### The Himalayan Story
-Built a simple **Tableau** dashboard using an online database to explore fun facts with Himalayan climbers from 1905 to 2017. This dashboard was used for internal training on Tableau skills for beginners.
+Built a very simple **Tableau** dashboard using an online database to explore fun facts about Himalayan climbers from 1905 to 2017. This dashboard was used for internal training on Tableau skills for employees who had no experience with Tableau.
 
 ![TheHimalayanStory Dashboard](/images/TheHimalayanStory_Dashboard.png)
