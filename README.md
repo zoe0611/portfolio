@@ -26,7 +26,7 @@
 
 ## Projects
 ### Natural Language Processing
-Developed a Natural Language Processing data pipiline to determine the similarities and differences between 800 agricultural research projects within the U.S. Department of Agriculture using **Python** and created a visualization in **Tableau** of the clusters that emerge. We used TF-IDF to calculate the importance of each word to its project plan and applied HDBSCAN clustering algorithm to build clusters. This data-driven approach helped ARS leaders easily decide on the appropriate resources to research projects and encourage collaboration to improve capacity and scientific discovery. 
+Developed a Natural Language Processing data pipiline to determine the similarities and differences between 800 agricultural research projects within the U.S. Department of Agriculture using **Python** and created a visualization in **Tableau** of the clusters that emerge. We used TF-IDF to calculate the importance of each word to its project plan and applied HDBSCAN clustering algorithm to build clusters. This data-driven approach helped clients determine the appropriate resources to research projects and encourage collaboration to improve capacity and scientific discovery. 
 
 ![ARS NLP Dashboard](/images/NLP_Dashboard_upper.png)
 [Tableau Public: NLP Dashboard](https://public.tableau.com/app/profile/siyi.huang1992/viz/ONPProjectDashboard-05262020/MainDashboard)
