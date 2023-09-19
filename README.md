@@ -36,9 +36,9 @@ Worked with the Finance team to develop performance monitoring framework with pr
 
 ![Corporate KPI Dashboard](/images/KPI_Dashboard.png)
 
-<center>© 2023 Siyi Huang. Powered by Jekyll and the Minimal Theme.</center>
-
 ### The Himalayan Story
 Built a very simple **Tableau** dashboard using an online database to explore fun facts about Himalayan climbers from 1905 to 2017. This dashboard was used for internal training on basic Tableau concepts for employees who had no experience with Tableau.
 
 ![TheHimalayanStory Dashboard](/images/TheHimalayanStory_Dashboard.png)
+
+<center>© 2023 Siyi Huang. Powered by Jekyll and the Minimal Theme.</center>
