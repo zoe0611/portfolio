@@ -26,6 +26,6 @@
 
 ## Projects
 ### Natural Language Processing
-Developed a Natural Language Processing data pipiline to determine the similarities and differences between 800 agricaltural research projects within the U.S. Department of Agriculture using **Python** and created a visualization in **Tableau** of the clusters that emerge. This data-driven approach helped ARS leaders easily decide on the appropriate resources to research projects and encourage collaboration to improve capacity and scientific discovery. 
+Developed a Natural Language Processing data pipiline to determine the similarities and differences between 800 agricultural research projects within the U.S. Department of Agriculture using **Python** and created a visualization in **Tableau** of the clusters that emerge. This data-driven approach helped ARS leaders easily decide on the appropriate resources to research projects and encourage collaboration to improve capacity and scientific discovery. 
 
 ![ARS NLP Dashboard](/images/NLP_Dashboard.png)
