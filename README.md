@@ -30,3 +30,13 @@ Developed a Natural Language Processing data pipiline to determine the similarit
 
 ![ARS NLP Dashboard](/images/NLP_Dashboard_upper.png)
 [Tableau Public: NLP Dashboard](https://public.tableau.com/app/profile/siyi.huang1992/viz/ONPProjectDashboard-05262020/MainDashboard)
+
+### Corporate KPI Dashboard
+Worked with the Finance team to develop performance monitoring framework with profit metrics, and built **Tableau** reports to monitor business performance and make data-informed decisions.
+
+![Corporate KPI Dashboard](/images/KPI_Dashboard.png)
+
+### The Himalayan Story
+Built a simple **Tableau** dashboard using an online database to explore fun facts with Himalayan climbers from 1905 to 2017. This dashboard was used for internal training on Tableau skills for beginners.
+
+![TheHimalayanStory Dashboard](/images/TheHimalayanStory_Dashboard.png)
