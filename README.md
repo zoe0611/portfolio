@@ -30,4 +30,4 @@ There are about 800 Agricultural Research Service projects in progress. The Agri
 <br><br>
 Developed a Natural Language Processing data pipiline to determine the similarities and differences between projects within ARS’ National Program using **Python** and create a visualization in **Tableau** of the clusters that emerge. This data-driven approach helped ARS leaders easily assess shared and unique facets among the projects that comprise ARS national programs.
 
-![ARS NLP Dashboard](/images/NLP_Dashboard.jpeg)
+![ARS NLP Dashboard](/images/NLP_Dashboard.png)
