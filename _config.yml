@@ -3,14 +3,17 @@ title: <p align="center"> Siyi Huang </p>
 logo: "/images/profile_photo.png?raw=true"
 
 description: 
+  <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/siyi-huang/">LinkedIn</a> |
   <a href="https://github.com/zoe0611">GitHub</a>
+  </p>
 
+  <p align="justify">
   I am currently a Data Analyst at CBRE Global Workplace Solutions.
   <br><br>
-  I am fascinated by the impact of data on business operations. 
-  With 3+ years of experience in data analytics, I am hoping to blend my data analysis skills with existing business
-  knowledge to bring unique insights.
+  I am fascinated by the impact of data on business operations. With 3+ years of experience in data analytics, I am hoping to blend my data analysis skills with existing business knowledge to bring unique insights.
   <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
