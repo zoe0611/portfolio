@@ -8,21 +8,28 @@
 
 ## Work Experience
 **Data Analyst @ CBRE Global Workplace Solutions, Toronto, Canada (_May 2022 - Present_)**
-- Reviewed accuracy of information provided, developed data quality processes and tools, responded to data requests from management and vendors
-- Analyzed the efficiency of existing data pipelines and improved the business processes through automation and standardization using PowerAutomate and Python; improved the operational efficiency by reducing manual work by 30%
-- Led Computerized Maintenance Management Systems (CMMS) activities including operations, implementations, data integrity program and ongoing care; maintained data for equipment and asset records, user and vendor maintenance, work order management and site matrix maintenance
-- Provided daily user support including troubleshooting and data maintenance for work order data analysis; provided guidance and support to end users in the operation, use and capabilities of the CMMS
+- Conducted strategic review of structured and unstructured data, specializing in asset management and work order data
+- Developed data pipelines in Power Automate to collect, cleanse, and standardize information for Employee Onboarding and Offboarding, leading to a 30% improvement in operational efficiency
+- Implemented a Python-based data quality process to identify data integration and integrity issues, reducing manual work by 20% in Building Onboarding
+- Prepared ad-hoc reports for management on equipment and asset records, user and vendor maintenance, work order management, and site matrix maintenance 
+- Led Computerized Maintenance Management Systems (CMMS) activities, including operations, implementations, and data integrity programs
+- Provided daily user support for work order data analysis, troubleshooting, and data maintenance in CMMS 
+
 
 **Senior Business Consultant @ Ernst & Young Enterprise Risk, Shanghai, China (_October 2020 - December 2021_)**
-- Assisted in global transformation program to integrate local applications to a global SAP system; performed data migration enforcement tasks including data conversion, data cleansing and data mapping using MS Excel and SQL
-- Performed process risk control assessment and benchmarking analysis to identify control gaps and improvement opportunities, developed short and long-term remediation plan for continuous control for processes including wholesaler management, vendor management and entity-level risk
+- Conducted process risk control assessment and benchmarking analysis, identifying control gaps and improvement opportunities
+- Developed short and long-term remediation plans for continuous control in processes including wholesaler management, vendor management, and entity-level risk
+- Conducted SAP IT general control reviews, addressed control deficiencies, and optimized the design of the IT internal control framework for SAP systems 
+
 
 **Senior Data Analyst @ DSFederal, Rockville, USA (_June 2018 - May 2020_)**
-- Assisted in building a Natural Language Processing pipeline in Python to automatically parse and structure research documents, identified significant keywords and cluster similar documents 
-- Assisted to develop Python scripts to automate the manual process of mapping accomplishment to goals using Word Mover’s Distance; helped clients easily evaluate, track and manage research deliverables utilizing Tableau dashboards
-- Worked closely with the Finance team to develop performance monitoring framework with profit metrics, and built Tableau reports to help the Managing Director monitor business performance and make data-informed decisions
-- Built a SQL database for HHS to quickly extract important information, generate reports and assess the performance of each state on disease preparation
-- Organized status review meetings with clients to report the updates, obstacles, and resource requirements; generated weekly and monthly report to stakeholders for reference
+- Assisted in building a Natural Language Processing pipeline in Python for parsing and structuring research documents, identifying significant keywords, and clustering similar documents 
+- Developed Python scripts to automate the manual process of mapping accomplishment to goals using Word Mover’s Distance
+- Developed Tableau dashboards for clients to easily evaluate, track and manage research deliverables 
+- Collaborated with the Finance team to develop performance monitoring framework with profit metrics, creating Tableau reports for the Managing Director to monitor business performance
+- Built a SQL database for clients to extract information quickly, generate reports, and assess the performance of each state on disease preparation
+- Organized status review meetings with clients, reporting updates, obstacles, and resource requirements; generated weekly and monthly reports for stakeholders
+
 
 ## Projects
 ### Natural Language Processing
